@@ -1,4 +1,4 @@
-This repository shows a simple example of image denoising using automatic differeniation.
+This repository shows a simple example of image denoising using automatic differentiation.
 
 This is meant to show how automatic differentiation can be easily used to solve inverse problems, variational assimilation costs or other classes of optimization problems.
 
